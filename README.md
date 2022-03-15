@@ -14,5 +14,6 @@
   <li>Estou atualizando, atualmente tem 42 exercícios feitos - 04/03/2022.
   <li>Estou atualizando, atualmente tem 47 exercícios feitos - 06/03/2022.
   <li>Estou atualizando, atualmente tem 50 exercícios feitos - 09/03/2022.
+  <li>Estou atualizando, atualmente tem 58 exercícios feitos - 14/03/2022.
 </ul>
 <img src='https://github.com/tiagosouzatfs/Python_estruturas_de_repeticao/blob/main/python.jpg' alt='imagem em python' width='100%'>
