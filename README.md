@@ -16,5 +16,6 @@
   <li>Estou atualizando, atualmente tem 50 exercícios feitos - 09/03/2022.
   <li>Estou atualizando, atualmente tem 58 exercícios feitos - 14/03/2022.
   <li>Estou atualizando, atualmente tem 60 exercícios feitos - 16/03/2022.
+  <li>Lista finalizada, atualmente estão os 62 exercícios feitos - 17/03/2022. (Fiz a 62 com a função len(), porém, estou estudando uma outra forma de fazer)
 </ul>
 <img src='https://github.com/tiagosouzatfs/Python_estruturas_de_repeticao/blob/main/python.jpg' alt='imagem em python' width='100%'>
